@@ -20,7 +20,7 @@ curl -s -u <user>:<pass> -X POST http://<ip>:<port>/json-rpc -H 'Content-Type: a
 | get_block_last | Get last block in the blockchain |
 | get_balance | Get current balance of an address |
 | get_unspents | Get unspent inputs of an address |
-| [get_statistic](#Test-Test) | Get blockchain statisctic |
+| [get_statistic](#9.-Get-statistic) | Get blockchain statisctic |
 
 ## 1. Address Create
 
