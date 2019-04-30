@@ -12,7 +12,7 @@ curl -s -u <user>:<pass> -X POST http://<ip>:<port>/json-rpc -H 'Content-Type: a
 
 | Method | Description |
 |--------|-------------|
-| [create_address](##1.-address-create) | Generate new address and private key |
+| [create_address](##-1.-address-create) | Generate new address and private key |
 | create_transaction | Request new transaction creation |
 | send_transaction | Send already generated transaction |
 | get_transaction | Get transaction by id |
